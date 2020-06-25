@@ -1,10 +1,10 @@
-package com.example.ejemloHola;
+package com.example.ejemploHola;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EjemloHolaApplicationTests {
+class EjemploHolaApplicationTests {
 
 	@Test
 	void contextLoads() {
